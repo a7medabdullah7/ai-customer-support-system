@@ -16,9 +16,8 @@ An advanced AI-powered customer support platform that automates email handling u
 
 ---
 
-## 🎥 Demo
-
-👉 https://youtu.be/1anceezkcll
+🎥 Live Demo:
+https://youtu.be/1anceezkcll
 
 ---
 
